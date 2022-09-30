@@ -1,0 +1,6 @@
+git add .
+git commit
+git push 
+git push origin 
+git switch -c update_script
+git pull
